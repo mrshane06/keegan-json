@@ -36,32 +36,64 @@
     ],
     "skills":[
         {
-            "img":"https://mrshane06.github.io/personal-portfolio-images/skills/languages/html.jpg",
-            "skill":"HTML"
+            "img":"https://mrshane06.github.io/personal-portfolio-images/skills/html5-logo-24.png",
+            "skill":"HTML5"
         },
         {
-            "img":"https://mrshane06.github.io/personal-portfolio-images/skills/languages/css.png",
-            "skill":"CSS"
+            "img":"https://mrshane06.github.io/personal-portfolio-images/skills/css3-logo-24.png",
+            "skill":"CSS3"
         },
         {
-            "img":"https://mrshane06.github.io/personal-portfolio-images/skills/languages/download.png",
+            "img":"https://mrshane06.github.io/personal-portfolio-images/skills/bootstrap-logo-24.png",
             "skill":"Bootstrap"
         },
         {
-            "img":"https://mrshane06.github.io/personal-portfolio-images/skills/languages/JavaScript%20logo.png",
+            "img":"https://mrshane06.github.io/personal-portfolio-images/skills/javascript-logo-24.png",
             "skill":"JavaScript"
         },
         {
-            "img":"https://mrshane06.github.io/personal-portfolio-images/skills/languages/Vue.png",
-            "skill":"VueJs"
+            "img":"https://mrshane06.github.io/personal-portfolio-images/skills/vuejs-logo-24.png",
+            "skill":"VueJs3"
         },
         {
-            "img":"https://mrshane06.github.io/personal-portfolio-images/skills/languages/NodeJs.png",
+            "img":"https://mrshane06.github.io/personal-portfolio-images/skills/nodejs-logo-24.png",
             "skill":"NodeJs"
         },
         {
-            "img":"https://mrshane06.github.io/personal-portfolio-images/skills/languages/mysql.png",
+            "img":"https://mrshane06.github.io/personal-portfolio-images/skills/mysql-removebg-preview.png",
+            "skill":"Python"
+        },
+        {
+            "img":"https://mrshane06.github.io/personal-portfolio-images/skills/mysql-removebg-preview.png",
+            "skill":"Flask"
+        },
+        {
+            "img":"https://mrshane06.github.io/personal-portfolio-images/skills/mysql-removebg-preview.png",
             "skill":"MySQL"
+        },
+        {
+            "img":"https://mrshane06.github.io/personal-portfolio-images/skills/data-solid-24.png",
+            "skill":"SQLite"
+        },
+        {
+            "img":"https://mrshane06.github.io/personal-portfolio-images/skills/mysql-removebg-preview.png",
+            "skill":"Figma"
+        },
+        {
+            "img":"https://mrshane06.github.io/personal-portfolio-images/skills/mysql-removebg-preview.png",
+            "skill":"Canva"
+        },
+        {
+            "img":"https://mrshane06.github.io/personal-portfolio-images/skills/mysql-removebg-preview.png",
+            "skill":"Github"
+        },
+        {
+            "img":"https://mrshane06.github.io/personal-portfolio-images/skills/mysql-removebg-preview.png",
+            "skill":"Firebase"
+        },
+        {
+            "img":"https://mrshane06.github.io/personal-portfolio-images/skills/mysql-removebg-preview.png",
+            "skill":"Terminal"
         }
     ],
     "softSkills":[
@@ -88,12 +120,12 @@
     ],
     "achievements":[
         {
-            "badges":"https://mrshane06.github.io/personal-portfolio-images/skills/badges/operating-systems-basics%20(1).png",
-            "name":"Operating Systems Basics"
-        },
-        {
             "badges":"https://mrshane06.github.io/personal-portfolio-images/skills/badges/linux-unhatched%20(1).png",
             "name":"Linux Unhatched"
+        },
+        {
+            "badges":"https://mrshane06.github.io/personal-portfolio-images/skills/badges/operating-systems-basics%20(1).png",
+            "name":"Operating Systems Basics"
         },
         {
             "badges":"https://mrshane06.github.io/personal-portfolio-images/skills/badges/network-technician-career-path.png",
@@ -102,9 +134,20 @@
         {
             "badges":"https://mrshane06.github.io/personal-portfolio-images/skills/badges/networking-devices-and-initial-configuration.png",
             "name":"Networking Device And Initial Configuration"
+        },
+        {
+            "badges":"https://mrshane06.github.io/personal-portfolio-images/skills/badges/python-essentials-1.1.png",
+            "name":"Python Essentials 1"
         }
     ],
     "projects":[
+        {
+            "Pimage":"https://mrshane06.github.io/personal-portfolio-images/projects/Keyboard.png",
+            "Pname":"Keyboard",
+            "description":"A Game that I've made with a few friends made with Python, Flask And SQLite .",
+            "github":"https://github.com/mrshane06/Keyboard",
+            "live":"https://keyboard-61hcmgp74-mrshane06s-projects.vercel.app/"
+        },
         {
             "Pimage":"https://mrshane06.github.io/personal-portfolio-images/projects/HexaShop.png",
             "Pname":"HexaShop",
@@ -139,13 +182,6 @@
             "description":"A fully functioning calculator made with JavaScript and HTML.",
             "github":"https://github.com/mrshane06/JavaScript-Calc",
             "live":"https://java-script-calc-r04a7u49v-mrshane06s-projects.vercel.app/"
-        },
-        {
-            "Pimage":"https://mrshane06.github.io/personal-portfolio-images/projects/Keyboard.png",
-            "Pname":"Keyboard",
-            "description":"A virtual keyboard I've made with HTML and CSS.",
-            "github":"https://github.com/mrshane06/Keyboard",
-            "live":"https://keyboard-61hcmgp74-mrshane06s-projects.vercel.app/"
         }
     ]
 }
