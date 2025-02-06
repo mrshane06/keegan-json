@@ -146,11 +146,11 @@
     ],
     "projects":[
         {
-            "Pimage":"https://mrshane06.github.io/personal-portfolio-images/projects/Keyboard.png",
-            "Pname":"Keyboard",
+            "Pimage":"https://mrshane06.github.io/personal-portfolio-images/projects/Screenshot%202025-02-06%20190958.png",
+            "Pname":"Rock Paper Scissors Combo!",
             "description":"A Game that I've made with a few friends made with Python, Flask And SQLite .",
-            "github":"https://github.com/mrshane06/Keyboard",
-            "live":"https://keyboard-61hcmgp74-mrshane06s-projects.vercel.app/"
+            "github":"https://github.com/itz-marcus/RPSC",
+            "live":"https://r-p-s-c.vercel.app/"
         },
         {
             "Pimage":"https://mrshane06.github.io/personal-portfolio-images/projects/HexaShop.png",
