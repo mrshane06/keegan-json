@@ -1,0 +1,151 @@
+{
+    "about":[
+        {
+            "about":"I am a web developer who takes pride in my work, dedicates myself fully to each task, and focuses on learning new skills to improve both myself and the company I work for. With my dedication to continuous learning , adaptability , and ability to work well with others , I feel that these skills would make me a valuable asset to any developer team.",
+            "me":"https://mrshane06.github.io/personal-portfolio-images/me/me_img.jpg"
+        }
+    ],
+    "education":[
+        {
+            "education":"Life Choices Coding Academy",
+            "image":"https://mrshane06.github.io/personal-portfolio-images/education/Life%20Choices%20logo.png",
+            "eduDesc":"Here at the Life Choices Coding Academy I have learned many things , including various coding languages and how to manage myself in a workplace environment.",
+            "years":"April 2024 - September 2024"
+        },
+        {
+            "education":"Leaders Quest",
+            "image":"https://mrshane06.github.io/personal-portfolio-images/education/leaders%20quest.png",
+            "eduDesc":"During my time at Leaders Quest , I had learned many leadership , people and analytical skills , and how to make important decisions for any situation.",
+            "years":"2022-2023"
+        },
+        {
+            "education":"Modderdam Highschool",
+            "image":"https://mrshane06.github.io/personal-portfolio-images/education/Modderdam%20high.jpg",
+            "eduDesc":"My time at Modderdam has taught me many things , how to properly engage with those around me , how to think critically and analytically , and how work well with others. ",
+            "years":"2019-2023"
+        }
+    ],
+    "experiences":[
+        {
+            "company":"LC Studio",
+            "image":"https://mrshane06.github.io/personal-portfolio-images/education/LC%20Studio.jpeg",
+            "position":"Intern",
+            "jobDes":"I gained knowledge and experience through the Networking , Software engineering and AWS learning journey's offered at LC Studio.",
+            "years":"September 2024 - current"
+        }
+    ],
+    "skills":[
+        {
+            "img":"https://mrshane06.github.io/personal-portfolio-images/skills/languages/html.jpg",
+            "skill":"HTML"
+        },
+        {
+            "img":"https://mrshane06.github.io/personal-portfolio-images/skills/languages/css.png",
+            "skill":"CSS"
+        },
+        {
+            "img":"https://mrshane06.github.io/personal-portfolio-images/skills/languages/download.png",
+            "skill":"Bootstrap"
+        },
+        {
+            "img":"https://mrshane06.github.io/personal-portfolio-images/skills/languages/JavaScript%20logo.png",
+            "skill":"JavaScript"
+        },
+        {
+            "img":"https://mrshane06.github.io/personal-portfolio-images/skills/languages/Vue.png",
+            "skill":"VueJs"
+        },
+        {
+            "img":"https://mrshane06.github.io/personal-portfolio-images/skills/languages/NodeJs.png",
+            "skill":"NodeJs"
+        },
+        {
+            "img":"https://mrshane06.github.io/personal-portfolio-images/skills/languages/mysql.png",
+            "skill":"MySQL"
+        }
+    ],
+    "softSkills":[
+        {
+            "softImg":"https://mrshane06.github.io/personal-portfolio-images/skills/soft%20skills/images.png",
+            "soft":"Computer Literacy"
+        },
+        {
+            "softImg":"https://mrshane06.github.io/personal-portfolio-images/skills/soft%20skills/Adaptability.png",
+            "soft":"Adaptability"
+        },
+        {
+            "softImg":"https://mrshane06.github.io/personal-portfolio-images/skills/soft%20skills/teamwork.jpg",
+            "soft":"Team Work"
+        },
+        {
+            "softImg":"https://mrshane06.github.io/personal-portfolio-images/skills/soft%20skills/Attention%20to%20detail.png",
+            "soft":"Attention to detail"
+        },
+        {
+            "softImg":"https://mrshane06.github.io/personal-portfolio-images/skills/soft%20skills/Communication.png",
+            "soft":"Communication"
+        }
+    ],
+    "achievements":[
+        {
+            "badges":"https://mrshane06.github.io/personal-portfolio-images/skills/badges/operating-systems-basics%20(1).png",
+            "name":"Operating Systems Basics"
+        },
+        {
+            "badges":"https://mrshane06.github.io/personal-portfolio-images/skills/badges/linux-unhatched%20(1).png",
+            "name":"Linux Unhatched"
+        },
+        {
+            "badges":"https://mrshane06.github.io/personal-portfolio-images/skills/badges/network-technician-career-path.png",
+            "name":"Networking Technician Career Path"
+        },
+        {
+            "badges":"https://mrshane06.github.io/personal-portfolio-images/skills/badges/networking-devices-and-initial-configuration.png",
+            "name":"Networking Device And Initial Configuration"
+        }
+    ],
+    "projects":[
+        {
+            "Pimage":"https://mrshane06.github.io/personal-portfolio-images/projects/HexaShop.png",
+            "Pname":"HexaShop",
+            "description":"An e-commerce that I've made with a partner made with NodeJs and VueJs.",
+            "github":"https://github.com/mrshane06/node_assignment",
+            "live":"https://node-eomp-272a2.web.app/"
+        },
+        {
+            "Pimage":"https://mrshane06.github.io/personal-portfolio-images/projects/PetPalace.png",
+            "Pname":"The Pet Palace",
+            "description":"A JavaScript e-commerce project made with JavaScript , HTML and CSS.",
+            "github":"https://github.com/mrshane06/2nd-Portfolio/tree/about",
+            "live":"https://e-commerce-project-beta-taupe.vercel.app/"
+        },
+        {
+            "Pimage":"https://mrshane06.github.io/personal-portfolio-images/projects/hulu.png",
+            "Pname":"Hulu Remake",
+            "description":"My attempt at remaking the hulu website made with HTML and CSS.",
+            "github":"https://github.com/mrshane06/hulu",
+            "live":"https://hulu-h3ovucx8p-mrshane06s-projects.vercel.app/"
+        },
+        {
+            "Pimage":"https://mrshane06.github.io/personal-portfolio-images/projects/Age%20to%20Days.png",
+            "Pname":"Age To Days",
+            "description":"A website that converts your age to days made with HTML and JavaScript.",
+            "github":"https://github.com/mrshane06/AgeToDays",
+            "live":"https://age-to-days-qbf1nttlk-mrshane06s-projects.vercel.app/"
+        },
+        {
+            "Pimage":"https://mrshane06.github.io/personal-portfolio-images/projects/JavaS_calc.png",
+            "Pname":"Calculator",
+            "description":"A fully functioning calculator made with JavaScript and HTML.",
+            "github":"https://github.com/mrshane06/JavaScript-Calc",
+            "live":"https://java-script-calc-r04a7u49v-mrshane06s-projects.vercel.app/"
+        },
+        {
+            "Pimage":"https://mrshane06.github.io/personal-portfolio-images/projects/Keyboard.png",
+            "Pname":"Keyboard",
+            "description":"A virtual keyboard I've made with HTML and CSS.",
+            "github":"https://github.com/mrshane06/Keyboard",
+            "live":"https://keyboard-61hcmgp74-mrshane06s-projects.vercel.app/"
+        }
+    ]
+}
