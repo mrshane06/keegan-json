@@ -60,11 +60,11 @@
             "skill":"NodeJs"
         },
         {
-            "img":"https://mrshane06.github.io/personal-portfolio-images/skills/mysql-removebg-preview.png",
+            "img":"https://mrshane06.github.io/personal-portfolio-images/skills/python-essentials-1.1.png",
             "skill":"Python"
         },
         {
-            "img":"https://mrshane06.github.io/personal-portfolio-images/skills/mysql-removebg-preview.png",
+            "img":"https://mrshane06.github.io/personal-portfolio-images/skills/flask-logo-24.png",
             "skill":"Flask"
         },
         {
@@ -76,23 +76,27 @@
             "skill":"SQLite"
         },
         {
-            "img":"https://mrshane06.github.io/personal-portfolio-images/skills/mysql-removebg-preview.png",
+            "img":"https://mrshane06.github.io/personal-portfolio-images/skills/microsoft-logo-24.png",
+            "skill":"Microsoft 365"
+        },
+        {
+            "img":"https://mrshane06.github.io/personal-portfolio-images/skills/figma-logo-24.png",
             "skill":"Figma"
         },
         {
-            "img":"https://mrshane06.github.io/personal-portfolio-images/skills/mysql-removebg-preview.png",
+            "img":"https://mrshane06.github.io/personal-portfolio-images/skills/canva.png",
             "skill":"Canva"
         },
         {
-            "img":"https://mrshane06.github.io/personal-portfolio-images/skills/mysql-removebg-preview.png",
+            "img":"https://mrshane06.github.io/personal-portfolio-images/skills/github-logo-24.png",
             "skill":"Github"
         },
         {
-            "img":"https://mrshane06.github.io/personal-portfolio-images/skills/mysql-removebg-preview.png",
+            "img":"https://mrshane06.github.io/personal-portfolio-images/skills/firebase-logo-24.png",
             "skill":"Firebase"
         },
         {
-            "img":"https://mrshane06.github.io/personal-portfolio-images/skills/mysql-removebg-preview.png",
+            "img":"https://mrshane06.github.io/personal-portfolio-images/skills/terminal-solid-24.png",
             "skill":"Terminal"
         }
     ],
