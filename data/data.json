@@ -5,24 +5,8 @@
             "me":"https://mrshane06.github.io/personal-portfolio-images/me/me_img.jpg"
         },
         {
-            "Interests":"Cars",
-            "Languages":"English"
-        },
-        {
-            "Interests":"Music",
-            "Languages":"Afrikaans"
-        },
-        {
-            "Interests":"Anime"
-        },
-        {
-            "Interests":"Technology"
-        },
-        {
-            "Interests":"Engineering"
-        },
-        {
-            "Interests":"Gaming"
+            "Interests":"Cars , Music , Anime , Technology , Engineering , Gaming",
+            "Languages":"English , Afrikaans"
         }
     ],
     "education":[
