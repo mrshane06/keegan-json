@@ -31,7 +31,14 @@
             "image":"https://mrshane06.github.io/personal-portfolio-images/education/LC%20Studio.jpeg",
             "position":"Intern",
             "jobDes":"I gained knowledge and experience through the Networking , Software engineering and AWS learning journey's offered at LC Studio.",
-            "years":"September 2024 - current"
+            "years":"September 2024 - March 2025"
+        },
+        {
+            "company":"Proto Care",
+            "image":"https://mrshane06.github.io/personal-portfolio-images/education/LC%20Studio.jpeg",
+            "position":"FullStack Developer Intern",
+            "jobDes":"Gained realtime experience working in a professional dev team and contributed to building the Proto Care website and application.",
+            "years":"March 2025 - current"
         }
     ],
     "skills":[
@@ -74,6 +81,10 @@
         {
             "img":"https://mrshane06.github.io/personal-portfolio-images/skills/data-solid-24.png",
             "skill":"SQLite"
+        },
+        {
+            "img":"https://mrshane06.github.io/personal-portfolio-images/skills/Blazor.png",
+            "skill":"Blazor"
         },
         {
             "img":"https://mrshane06.github.io/personal-portfolio-images/skills/microsoft-logo-24.png",
@@ -146,11 +157,11 @@
     ],
     "projects":[
         {
-            "Pimage":"https://mrshane06.github.io/personal-portfolio-images/projects/Screenshot%202025-02-06%20190958.png",
+            "Pimage":"https://mrshane06.github.io/personal-portfolio-images/projects/RPSC.png",
             "Pname":"Rock Paper Scissors Combo!",
             "description":"A Game that I've made with a few friends made with Python, Flask And SQLite .",
             "github":"https://github.com/itz-marcus/RPSC",
-            "live":"https://r-p-s-c.vercel.app/"
+            "live":"https://rpsc-ten.vercel.app/"
         },
         {
             "Pimage":"https://mrshane06.github.io/personal-portfolio-images/projects/HexaShop.png",
@@ -160,11 +171,11 @@
             "live":"https://node-eomp-272a2.web.app/"
         },
         {
-            "Pimage":"https://mrshane06.github.io/personal-portfolio-images/projects/PetPalace.png",
-            "Pname":"The Pet Palace",
-            "description":"A JavaScript e-commerce project made with JavaScript , HTML and CSS.",
-            "github":"https://github.com/mrshane06/2nd-Portfolio/tree/about",
-            "live":"https://e-commerce-project-beta-taupe.vercel.app/"
+            "Pimage":"https://mrshane06.github.io/personal-portfolio-images/projects/WeatherApp2.png",
+            "Pname":"Weather App",
+            "description":"A weather app that displays a 7 forecast , made with Python, and Flask.",
+            "github":"https://github.com/mrshane06/OpenWeather",
+            "live":"https://weather-app-six-iota-55.vercel.app/"
         },
         {
             "Pimage":"https://mrshane06.github.io/personal-portfolio-images/projects/hulu.png",
