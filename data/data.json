@@ -35,7 +35,7 @@
         },
         {
             "company":"Proto Care",
-            "image":"https://mrshane06.github.io/personal-portfolio-images/education/LC%20Studio.jpeg",
+            "image":"https://mrshane06.github.io/personal-portfolio-images/logo_dark.webp",
             "position":"FullStack Developer Intern",
             "jobDes":"Gained realtime experience working in a professional dev team and contributed to building the Proto Care website and application.",
             "years":"March 2025 - current"
@@ -83,7 +83,7 @@
             "skill":"SQLite"
         },
         {
-            "img":"https://mrshane06.github.io/personal-portfolio-images/skills/Blazor.png",
+            "img":"https://mrshane06.github.io/personal-portfolio-images/skills/blazor1.png",
             "skill":"Blazor"
         },
         {
@@ -101,10 +101,6 @@
         {
             "img":"https://mrshane06.github.io/personal-portfolio-images/skills/github-logo-24.png",
             "skill":"Github"
-        },
-        {
-            "img":"https://mrshane06.github.io/personal-portfolio-images/skills/firebase-logo-24.png",
-            "skill":"Firebase"
         },
         {
             "img":"https://mrshane06.github.io/personal-portfolio-images/skills/terminal-solid-24.png",
