@@ -153,6 +153,13 @@
     ],
     "projects":[
         {
+            "Pimage":"https://mrshane06.github.io/personal-portfolio-images/projects/WeatherApp2.png",
+            "Pname":"Weather App",
+            "description":"A weather app that displays a 7 forecast , made with Python, and Flask.",
+            "github":"https://github.com/mrshane06/OpenWeather",
+            "live":"https://weather-app-six-iota-55.vercel.app/"
+        },
+        {
             "Pimage":"https://mrshane06.github.io/personal-portfolio-images/projects/RPSC.png",
             "Pname":"Rock Paper Scissors Combo!",
             "description":"A Game that I've made with a few friends made with Python, Flask And SQLite .",
@@ -165,13 +172,6 @@
             "description":"An e-commerce that I've made with a partner made with NodeJs and VueJs.",
             "github":"https://github.com/mrshane06/node_assignment",
             "live":"https://node-eomp-272a2.web.app/"
-        },
-        {
-            "Pimage":"https://mrshane06.github.io/personal-portfolio-images/projects/WeatherApp2.png",
-            "Pname":"Weather App",
-            "description":"A weather app that displays a 7 forecast , made with Python, and Flask.",
-            "github":"https://github.com/mrshane06/OpenWeather",
-            "live":"https://weather-app-six-iota-55.vercel.app/"
         },
         {
             "Pimage":"https://mrshane06.github.io/personal-portfolio-images/projects/hulu.png",
